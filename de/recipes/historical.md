@@ -38,7 +38,7 @@ Geschrieben wurden sie für Leute, die jedes Jahr Met oder Wein machten. Alles, 
 
 - **Das Sieden.** Fast jedes Rezept kocht Honig und Wasser und schöpft den Schaum ab, manchmal lange. Das war die übliche Methode, keine Marotte: Im Mittelhochdeutschen hieß der Metmacher *metsieder*, und man unterschied „gesottenen Met“ von „ungesottenem Met“. Ein mittelalterliches Güter- und Abgabenverzeichnis (ein sogenanntes Urbar) sah sogar eine Buße von dreißig Pfennig für jeden vor, der vor der Sonnenwende keinen Met gesotten hatte. Honig kam damals mit Wachs, Pollen und Wabenresten, das Sieden und Abschäumen hatte also echte Arbeit zu tun.
 - **Handwärme.** „Bis man die Hand darin ertragen kann“ ist die Anstelltemperatur. Warm, nicht heiß. Das steht in mehreren dieser Texte, immer direkt bevor die Hefe hineinkommt.
-- **Die Eiprobe.** Ein bairisches Rezept gibt so lange Wasser zum Honig, bis ein frisches Ei schwimmt und über die Oberfläche schaut. Das ist das Hydrometer der Zeit. Sehr grob zeigt sich ein Ei irgendwo zwischen 1,070 und 1,100, je nach Ei. Ein grober Test, aber ein Test, und er zeigt, dass den Leuten die Stärke wichtig war. Zucker oder Alkohol in Zahlen fassen konnte niemand, bevor im 18. und 19. Jahrhundert Hydrometer und Oechsle-Waage kamen.
+- **Die Eiprobe.** Ein bairisches Rezept gibt so lange Wasser zum Honig, bis ein frisches Ei schwimmt und über die Oberfläche schaut. Das ist das Hydrometer der Zeit. Sehr grob zeigt sich ein Ei irgendwo zwischen 1.070 und 1.100, je nach Ei. Ein grober Test, aber ein Test, und er zeigt, dass den Leuten die Stärke wichtig war. Zucker oder Alkohol in Zahlen fassen konnte niemand, bevor im 18. und 19. Jahrhundert Hydrometer und Oechsle-Waage kamen.
 - **Maße.** Eine *Maß*, ein *Viertel*, ein *Som* oder ein *Fuder* waren von Stadt zu Stadt verschieden. Such nicht nach dem genauen Literwert; was zählt, ist das Verhältnis, und das steht im Text. Wo die Größe einer Einheit ungefähr bekannt ist, sagen es die Notizen.
 - **Hopfen.** Drei dieser Mete nehmen Hopfen, lange bevor irgendwer von IBU sprach. Vor allem als Bitter- und Haltbarkeitskraut, so wie im Bier.
 - **Farbe.** Zwei der deutschen Rezepte kochen einen Teil des Honigs, bis er rot oder braun ist, und geben ihn zur Farbe in den Met. Dieselbe Idee wie beim Bochet, nur als Färbung.
@@ -49,10 +49,10 @@ Das ist der Teil, bei dem die meisten danebenliegen. Die übliche Annahme: Damal
 
 Die Rezepte sagen etwas anderes. Mehrere stellen ganz bewusst an:
 
-- **Würzburg, um 1350:** ein halbes *Nösslein* (ein kleines Flüssigkeitsmaß) frische Hefe, hineingegossen, sobald die Würze auf Handwärme abgekühlt ist.
+- **Würzburg, um 1350:** ein halbes *Nösslein* (ein kleines Flüssigkeitsmaß) frische Hefe, hineingegossen, sobald der Most auf Handwärme abgekühlt ist.
 - **Paris, um 1393:** eine Chopine (etwa ein halber Liter) Bierhefe, „denn das macht es pikant“. Brotsauerteig gehe auch, schreibt der Autor, gebe aber eine blassere Farbe.
 - **Bayern, Mitte 15. Jahrhundert:** Bierhefe (Biergärm), ebenfalls bei Handwärme. Davor kocht dasselbe Rezept ein Säckchen Hefe (?) im Sud mit, „nicht zu viel“. Wenn die Lesart stimmt, ist das [gekochte Hefe als Nährstoff](/en/ingredients/nutrients#using-boiled-bread-yeast), 550 Jahre zu früh.
-- **Nürnberg, um 1389:** ein Starter. Ein Teil der gesottenen Würze wird in einer warmen Stube hinter den Ofen gestellt, bis er eine Schaumhaube bekommt, und dann in den Hauptansatz gegeben.
+- **Nürnberg, um 1389:** ein Starter. Ein Teil des gesottenen Mosts wird in einer warmen Stube hinter den Ofen gestellt, bis er eine Schaumhaube bekommt, und dann in den Hauptansatz gegeben.
 
 Dass Hefe ein Lebewesen ist, wussten sie nicht; das kam mit Pasteur in den 1850er und 60er Jahren. Aber sie wussten genau, dass der Schaum einer laufenden Biergärung den Met in Gang bringt und dass ein Gefäß, das schon gegoren hat, wieder gärt. Die Bärme aus dem Brauhaus nebenan war eine obergärige Bierhefe, am Leben gehalten durch ständiges Weiterführen. Das ist keine wilde Kultur, sondern das mittelalterliche Gegenstück zu einem Hausstamm.
 
@@ -81,20 +81,20 @@ Jeden Abend auffüllen, dann von der Hefe abziehen (Würzburg) | Luft und Essigb
 
 Nichts davon wurde als Theorie aufgeschrieben. Es steckt einfach in den Arbeitsschritten, und es funktioniert.
 
-### Ungefähre Stammwürzen
+### Ungefähre OG
 
-Nicht aus den Texten. Wir haben sie aus den Verhältnissen von Honig zu Flüssigkeit in den Rezepten berechnet, mit derselben Zahl wie im [Meadcalc-Beispiel](/en/process/process_summary) an anderer Stelle in diesem Wiki: 18 lb Honig auf 5 Gallonen ergeben 1,129, also gut 36 Punkte pro Pfund und Gallone. Ein Liter Honig wiegt etwa 1,42 kg. Einkochen ist nicht berücksichtigt, außer das Rezept sagt, wie viel, also nimm die Werte als grobe Richtung.
+OG steht für Original Gravity, die spezifische Dichte des Mosts vor der Gärung. Die Werte stehen nicht in den Texten. Wir haben sie aus den Verhältnissen von Honig zu Flüssigkeit in den Rezepten berechnet, mit derselben Zahl wie im [Meadcalc-Beispiel](/en/process/process_summary) an anderer Stelle in diesem Wiki: 18 lb Honig auf 5 Gallonen ergeben 1.129, also gut 36 Punkte pro Pfund und Gallone. Ein Liter Honig wiegt etwa 1,42 kg. Einkochen ist nicht berücksichtigt, außer das Rezept sagt, wie viel, also nimm die Werte als grobe Richtung.
 
-Rezept | Verhältnis im Text | Grobe Stammwürze
+Rezept | Verhältnis im Text | Grobe OG
 ---|---|---
-[Met mit Hopfen und Salbei](/recipes/historical/good-mead-wuerzburg-1350) | 1 Honig : 2 Wasser, dann gesotten | 1,140 oder höher
-[Edler Met, um ein Drittel eingesotten](/recipes/historical/noble-mead-donaueschingen-1450) | 1 Honig : 2 Wasser, um ein Drittel eingekocht | um 1,210
-[Gehopfter roter Met](/recipes/historical/hopped-mead-nuremberg-1389) | 1 Honig : 3 Wasser | um 1,105
-[Bochet: Met aus dunkel gekochtem Honig](/recipes/historical/bochet-paris-1393), erstes Rezept | 6 Pinten Honig auf 6 Sextiers (48 Pinten) fertig | um 1,050, nach dem Dunkelkochen weniger
-[Bochet: Met aus dunkel gekochtem Honig](/recipes/historical/bochet-paris-1393), zweites Rezept | 1 Honig : 3 Wasser, um ein Zehntel eingekocht | um 1,120
-[Met mit Eiprobe und Bierhefe](/recipes/historical/mead-egg-test-bavaria-1450) | Wasser, bis ein Ei herausschaut | grob 1,070 bis 1,100
-[Met mit Muskat und Zimt](/recipes/historical/spiced-mead-wolfenbuettel-1543) | etwa 1 Honig : 12 Wasser | um 1,040
-[Met mit Rosen und Lorbeerbeeren](/recipes/historical/rose-laurel-mead-rumpolt-1581) | 1 Honig : 6 Wasser, plus Honig für die Farbe | 1,060 oder etwas höher
+[Met mit Hopfen und Salbei](/recipes/historical/good-mead-wuerzburg-1350) | 1 Honig : 2 Wasser, dann gesotten | 1.140 oder höher
+[Edler Met, um ein Drittel eingesotten](/recipes/historical/noble-mead-donaueschingen-1450) | 1 Honig : 2 Wasser, um ein Drittel eingekocht | um 1.210
+[Gehopfter roter Met](/recipes/historical/hopped-mead-nuremberg-1389) | 1 Honig : 3 Wasser | um 1.105
+[Bochet: Met aus dunkel gekochtem Honig](/recipes/historical/bochet-paris-1393), erstes Rezept | 6 Pinten Honig auf 6 Sextiers (48 Pinten) fertig | um 1.050, nach dem Dunkelkochen weniger
+[Bochet: Met aus dunkel gekochtem Honig](/recipes/historical/bochet-paris-1393), zweites Rezept | 1 Honig : 3 Wasser, um ein Zehntel eingekocht | um 1.120
+[Met mit Eiprobe und Bierhefe](/recipes/historical/mead-egg-test-bavaria-1450) | Wasser, bis ein Ei herausschaut | grob 1.070 bis 1.100
+[Met mit Muskat und Zimt](/recipes/historical/spiced-mead-wolfenbuettel-1543) | etwa 1 Honig : 12 Wasser | um 1.040
+[Met mit Rosen und Lorbeerbeeren](/recipes/historical/rose-laurel-mead-rumpolt-1581) | 1 Honig : 6 Wasser, plus Honig für die Farbe | 1.060 oder etwas höher
 
 Der Wacholdertrank von Meister Hans nimmt ein einziges Maß Honig (oder ein halbes Pfund Zucker) auf ein Fass von mehreren hundert Litern. Das ist ein leicht gesüßter „Wassertrank“, wie der Text ihn nennt, kein Met im heutigen Sinn.
 
